@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Zainab-Ayoub&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zainab-Ayoub&theme=discord_old_blurple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zainab-Ayoub&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-[![](https://raw.githubusercontent.com/Zainab-Ayoub/Zainab-Ayoub/master/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Zainab-Ayoub/Zainab-Ayoub/master/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Zainab-Ayoub/Zainab-Ayoub/master/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Zainab-Ayoub/Zainab-Ayoub/master/profile-summary-card-output/discord_old_blurple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Zainab-Ayoub/Zainab-Ayoub/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Zainab-Ayoub&theme=dracula&no-frame=false&no-bg=true&margin-w=4)

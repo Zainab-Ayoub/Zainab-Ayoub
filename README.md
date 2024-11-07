@@ -1,4 +1,4 @@
-# Hi! It's Zainab.
+# Hi there! It's Zainab.
 
 # 💫 About Me:
 🔭 I’m currently working on building websites and exploring new features

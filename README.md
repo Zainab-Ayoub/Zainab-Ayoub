@@ -1,4 +1,4 @@
-# Hi, It's Zainab! 👋
+# Hi there, It's Zainab! 👋
 
 # 💫 About Me:
 💻 I love crafting websites that are fast, beautiful, and user-friendly.<br>📈 I'm diving deep into data — analyzing, visualizing, and making sense of numbers with Python!<br>🛠️ Tech I use: HTML, CSS, JavaScript, React, Node.js, Flask, Django, Pandas, and more.<br>🚀 Currently leveling up my skills in backend development and machine learning.<br>🌟 Dreaming of building apps that combine powerful data insights with awesome user experiences.

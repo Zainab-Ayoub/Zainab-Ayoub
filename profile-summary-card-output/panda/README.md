@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Zainab-Ayoub/Zainab-Ayoub/master/profile-summary-card-output/panda/4-productive-time.svg)
+```
+
+    
